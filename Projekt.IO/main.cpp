@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
 
-	cout << "Hello, World!" << endl;
-
+	cout << "Witamy w projekcie na Inzynierie Oprogramowania" << endl;
+	cout << "Tu kiedys cos bedzie" << endl;
 
 	return 0;
 }
